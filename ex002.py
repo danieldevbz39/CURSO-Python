@@ -1,0 +1,6 @@
+nome = input('Digite seu nome: ')
+print('É um prazer te conhecer, {}!'.format(nome))
+estado = input('Digite o estado: ')
+print('Você mora no estado de, {}'.format(estado))
+cidade = input('Digite a cidade: ')
+print('Você mora em, {}'.format(cidade))
