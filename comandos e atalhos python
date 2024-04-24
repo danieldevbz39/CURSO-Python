@@ -1,0 +1,16 @@
+[] lista
+= recebe
+len() = mostra o comprimento da frase
+frase.count('O') = conta quantas vezes existe a letra " "
+frase.find('') = quantas vezes encontra a palavra
+frase.replace ('Python', 'Android') = substitui a palavra
+frase.upper() = Coloca todas as letras minusculas em maiusculas
+frase.lower() = coloca todas as letras maiusculas em minusculas
+frase.captalize() = coloca a primeira letra em maiuscula
+frase.title() = coloca a primeira letra de cada palavra em maiuscula
+frase.strip() = remove todos os epaços inutil no inicio e fim
+frase.rstrip() = remove os ultimos espaços do lado direito
+frase.lstrip() = remove os primeiros espaços da esquerda
+frase.split() = divide espaços em conjuntos separado por espaços
+'-'.join(frase) = substitui os espaços por -
+print(""") = para exibir um texto grande
