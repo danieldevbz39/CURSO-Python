@@ -14,3 +14,4 @@ frase.lstrip() = remove os primeiros espaços da esquerda
 frase.split() = divide espaços em conjuntos separado por espaços
 '-'.join(frase) = substitui os espaços por -
 print(""") = para exibir um texto grande
+strip = tira os espaços
