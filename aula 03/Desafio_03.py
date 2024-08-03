@@ -1,7 +1,7 @@
-x = int(input (' Digite o primeiro numero: '))
+x = int(input('Digite o primeiro número: '))
 
 
-y = int(input (' Digite o segundo numero: '))
+y = int(input ('Digite o segundo número: '))
 
-s = x+y
-print ('O resultado é ' , s)
+s =x+y
+print('O resultado é' ,s)
