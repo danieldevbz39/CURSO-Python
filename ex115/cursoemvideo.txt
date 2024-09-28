@@ -1,0 +1,5 @@
+Daniel;38
+Gabriel;15
+Phelipe ;14
+Ana;22
+Francisca;67
